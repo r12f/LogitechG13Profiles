@@ -261,7 +261,7 @@
       <assignment shiftstate="1" contextid="G11" macroguid="{73BE3294-295E-47E2-8672-DFEE58A0EE02}" backup="false" original="true"/>
       <assignment shiftstate="1" contextid="G8" macroguid="{AD609AB3-5999-4287-9AB5-0D29FAEBD43A}" backup="false" original="true"/>
       <assignment shiftstate="1" contextid="G9" macroguid="{CFC033D1-2083-40F9-B631-D914FFFBEBE1}" backup="false" original="true"/>
-      <assignment shiftstate="1" contextid="G10" macroguid="{2B99EC5B-5A9B-4B77-8DAA-384ED5FB4C63}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="G10" macroguid="{2B99EC5B-5A9B-4B77-8DAA-384ED5FB4C63}" backup="true" original="false"/>
       <assignment shiftstate="1" contextid="G26" macroguid="{62A258CE-7745-4CE7-BBE2-75A721B0D209}" backup="false" original="true"/>
       <assignment shiftstate="1" contextid="G28" macroguid="{0A1AD267-774A-48EC-8897-940C63F0D4DC}" backup="false" original="true"/>
       <assignment shiftstate="1" contextid="G27" macroguid="{CF3014B8-9001-4886-8D12-48D84646FAC5}" backup="false" original="true"/>
@@ -278,7 +278,8 @@
       <assignment shiftstate="1" contextid="G18" macroguid="{39958704-2AA8-4C72-B822-6B845D19EF37}" backup="false" original="false"/>
       <assignment shiftstate="1" contextid="G15" macroguid="{57A86808-7581-404B-AD8C-5B77890D6B88}" backup="false" original="false"/>
       <assignment shiftstate="1" contextid="G19" macroguid="{756B3D72-BBC9-4897-A877-2B6E911051D3}" backup="false" original="false"/>
-      <assignment shiftstate="1" contextid="G14" macroguid="{9F5DD36B-B651-480B-AEE8-734836E42A70}" backup="false" original="false"/>
+      <assignment shiftstate="1" contextid="G12" macroguid="{2B99EC5B-5A9B-4B77-8DAA-384ED5FB4C63}" backup="false" original="false"/>
+      <assignment shiftstate="1" contextid="G10" macroguid="{9F5DD36B-B651-480B-AEE8-734836E42A70}" backup="false" original="false"/>
     </assignments>
     <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
       <mode shiftstate="1" color="#53bcff"/>
