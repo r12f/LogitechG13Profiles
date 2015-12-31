@@ -4,3 +4,4 @@ One day, I was hanging around in Amazon. Then I found this small but extream han
 
 In each profile, you might find multiple versions like Win and Win-Capslock-Ctrl. The only difference in \*-Capslock-Ctrl version is that "Capslock" key and "Left Control" key are swapped for people use their keyboard like this on Windows.
 
+## How to use
